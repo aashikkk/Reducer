@@ -9,6 +9,7 @@
 
 ![StateVsReducer](image.png)
 
+![Laymen Scenerio](image-3.png)
 ![ScenerioToExplainReducer](image-1.png)
 
 ![ActionTypes](image-2.png)
